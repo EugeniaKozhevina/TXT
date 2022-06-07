@@ -1,0 +1,9 @@
+Id
+Title
+Severity
+Priority
+Environment
+Preconditions
+Steps to reproduce
+Actual result
+Expected result
